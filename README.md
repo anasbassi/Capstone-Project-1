@@ -14,11 +14,11 @@
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/chelmerrox/capstone-1/capstone-1/index.html)
+[Live Demo Link](https://anasbassi.github.io/Capstone-Project-1/)
 
 ## Video presentation
 
-[My video presentation](https://www.loom.com/share/f70f99e9c9b74be790ab7e49c87690da)
+[My video presentation](https://www.loom.com/share/3e82a7e89fae4c929406e25f3d883ce4)
 
 ## Getting Started
 
