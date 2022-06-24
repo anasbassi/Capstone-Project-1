@@ -35,13 +35,23 @@
 
 To get a local copy up and running follow these simple example steps.
 
-## Authors
+## Author
 
 👤 **Anas Abubakar Bassi**
 
 - GitHub: [@anasbassi](https://github.com/anasbassi)
 - Twitter: [@anasabu92568449](https://twitter.com/anasabu92568449)
 - LinkedIn: [Anas Abubakar](https://linkedin.com/in/anas-abubakar-7b352722b)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/anasbassi/Capstone-Project-1/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
@@ -51,6 +61,7 @@ To get a local copy up and running follow these simple example steps.
 - Morning Session Teams.
 - Stand-Up Teams.
 - Microverse TSEs.
+- Cindy Shin from Behance for the design guidelines
 
 ## 📝 License
 
