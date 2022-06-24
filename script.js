@@ -66,7 +66,7 @@ for (let i = 0; i < coaches1.length; i += 1) {
         <p>${coaches2[i].remark}</p>
       </div>
     </div>
-  </div>`;  
+  </div>`;
   coachContainer.classList.add('card-container-js');
   coachSection.appendChild(coachContainer);
 }
