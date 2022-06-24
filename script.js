@@ -4,7 +4,7 @@ const coaches1 = [
   {
     name: 'Coach Sarki',
     position: 'Team Manager',
-    remark: 'A well experienced coach, He coached the basket ball team for the Taraba State University from 2012 to 2018 then he joined the BAcademy',
+    remark: 'A well experienced coach, He coached the basket ball team for the Adamawa State University from 2012 to 2018 then he joined the BAcademy',
     thumbnail: 'sarki.jpeg',
   },
   {
